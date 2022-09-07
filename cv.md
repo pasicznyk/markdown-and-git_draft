@@ -1,7 +1,6 @@
 # **ARTEM PASICHNYK**
 ![photo](/images/AP.png)  
 
-*****
 > ### ABOUT MYSELF :  
 
 Currently I am working as an architect and CG artist in APA Wojciechowski (largest architectural firm in Poland with over 120 employees).  
@@ -17,40 +16,42 @@ Sense of style, artistic approach and ability to create different concepts in sh
 **Photoshop** - advanced  
 *****
 
-> ### CODE EXAMPLES :   
+> ### CODE EXAMPLES :  
 ```javascript
 function makeUpperCase(str) {
   let text = str.toUpperCase();
   return text;
 }
 makeUpperCase("Hello World");
-```
 ```  
+```javascript  
 function multiply(a, b){
   a * b
   return a * b
 }
-```
+```  
 *****
 > ### WORK EXPERIENCE :  
-
-+ **Architect at APA Wojciechowski sp. z o.o.** (Department in Gdynia) (Sep 2020 - till today)
-+ **Freelance CG artist** (June 2019 - Sep 2020)
+    + **Architect at APA Wojciechowski sp. z o.o.** (Department in Gdynia) (Sep 2020 - till today)
+    + **Freelance CG artist** (June 2019 - Sep 2020)
 ***** 
-> ### EDUCATION :   
+> ### EDUCATION :  
+    + **Master of Architecture** (Gdańsk University of Technology)
+    + **Bachelor of Architecture** (Chernivtsi National University)  
+*****  
 
-+ **Master of Architecture** (Gdańsk University of Technology)
-+ **Bachelor of Architecture** (Chernivtsi National University)
 > ### LANGUAGES :  
 
 **Ukrainian:** Native  
 **Polish:** B2/С1  
 **English:** B1+  
 **Russian:** C1  
+*****  
 
-> ### CONTACT ME :
-  
+> ### CONTACT ME :  
+
 **GitHub:** <https://github.com/pasicznyk>  
 **Behance:** <https://www.behance.net/a_pasicznyk>  
 **LinkedIn:**  <https://www.linkedin.com/in/a-pasichnyk/>  
 **Instagram:**  <https://www.instagram.com/a_pasicznyk/> 
+*****
