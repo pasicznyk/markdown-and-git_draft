@@ -3,9 +3,10 @@
 
 > ### ABOUT MYSELF :  
 
-Currently I am working as an architect and CG artist in APA Wojciechowski (largest architectural firm in Poland with over 120 employees).  
+Currently I am working as an architect and CG artist in [APA Wojciechowski](https://www.instagram.com/apawojciechowski/) (largest architectural firm in Poland with over 120 employees).  
 
-Also, I found of programing in my free time. I would like to improve my basic knowledge and skills in the field of front-end development, UX and UI design.
+Also, I found of programing and [CGI](https://www.behance.net/gallery/131650675/Final-destination) in my free time. I would like to improve my basic knowledge and skills in the field of front-end development, UX and UI design.  
+
 Sense of style, artistic approach and ability to create different concepts in short deadlines are definitely my most valuable assets, which I earned working as an architectural designer. Thats why I found front-end development so interesting, because I can interact with the visual side of the project.
   
 -------
