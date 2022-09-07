@@ -16,6 +16,7 @@ Sense of style, artistic approach and ability to create different concepts in sh
 + **GitHub Desktop** - beginner     
 + **Figma** - beginner  
 + **Photoshop** - advanced   
+  
 -------
 
 > ### CODE EXAMPLES :  
@@ -55,11 +56,14 @@ function multiply(a, b){
 + **Polish:** B2/С1  
 + **English:** B1+  
 + **Russian:** C1  
--------
+  
+-------  
+
 > ### CONTACT ME :  
 
 + **GitHub:** <https://github.com/pasicznyk>  
 + **Behance:** <https://www.behance.net/a_pasicznyk>  
 + **LinkedIn:**  <https://www.linkedin.com/in/a-pasichnyk/>  
-+ **Instagram:**  <https://www.instagram.com/a_pasicznyk/> 
--------  
++ **Instagram:**  <https://www.instagram.com/a_pasicznyk/>  
+  
+-------
