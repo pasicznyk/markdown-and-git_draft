@@ -15,7 +15,7 @@ Sense of style, artistic approach and ability to create different concepts in sh
 + **HTML, CSS, JS** - beginner  
 + **GitHub Desktop** - beginner     
 + **Figma** - beginner  
-+ **Photoshop** - advanced   
++ **Photoshop** - advanced  
   
 -------
 
